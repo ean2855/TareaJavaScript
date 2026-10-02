@@ -1,0 +1,19 @@
+body {
+    background-image: url("java.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: red;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}
